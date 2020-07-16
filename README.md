@@ -1,3 +1,3 @@
 # ACM_Practice
-POJ           &emsp ;3  
-LUOGU         &emsp ;1
+POJ :3  
+LUOGU :1
